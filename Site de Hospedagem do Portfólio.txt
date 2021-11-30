@@ -1,3 +1,0 @@
-Netlify: https://unruffled-hugle-264747.netlify.app
-
-Github: https://github.com/AlmadaLucas/PWEB/tree/main/Portfolio
